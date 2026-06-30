@@ -25,6 +25,9 @@ Notebook: astropy-gaia-intro.ipynb
 
 Please refer to: astropy-gaia-intro.ipynb
 
+## Licenses
+
+All material from Data Carpentries is Copyright (c) The Carpentries (https://carpentries.org/) and licensed under [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 
 
