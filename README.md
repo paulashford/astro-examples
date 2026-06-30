@@ -13,11 +13,15 @@ https://figshare.com/ndownloader/files/60492173
 
 You can use binder (https://mybinder.org/) to turn into an interactive notebook. 
 
-https://mybinder.org/v2/gh/https://github.com:paulashford/astro-examples/HEAD?urlpath=%2Fdoc%2Ftree%2Fastropy-gaia-intro.ipynb
+Launch: https://mybinder.org/v2/gh/paulashford/astro-examples/HEAD?urlpath=%2Fdoc%2Ftree%2Fastropy-gaia-intro.ipynb
 
-(or manually URL: https://github.com:paulashford/astro-examples/ and notebook name is: astropy-gaia-intro.ipynb)
+Alternatively, manually enter details at https://mybinder.org/
 
-## More info
+URL: https://github.com/paulashford/astro-examples
+
+Notebook: astropy-gaia-intro.ipynb
+
+## More info
 
 Please refer to: astropy-gaia-intro.ipynb
 
